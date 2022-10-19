@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Murtuza Rangwal
+- 👋 Hi, I’m Murtuza Rangwala
 - 👀 I’m interested in Front-end Web Development 
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Learning and Working on good projects
