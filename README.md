@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Murtuza Rangwala
-- 👀 I’m interested in Front-end Web Development 
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Full Stack Web Development. 
+- 🌱 I’m currently learning MERN Stack.
 - 💞️ I’m looking to collaborate on Learning and Working on good projects
 - 📫 How to reach me [Instagram](https://www.instagram.com/murtuza_it/)
 
