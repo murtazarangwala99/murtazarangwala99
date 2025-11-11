@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Murtuza Rangwala
-- 👀 I’m interested in Full Stack Web Development. 
-- 🌱 I’m currently learning MERN Stack.
+- 👀 I’m interested in DevOps and Cloud. 
+- 🌱 I’m currently learning DevOps tools and Azure/AWS.
 - 💞️ I’m looking to collaborate on Learning and Working on good projects
 - 📫 How to reach me [Instagram](https://www.instagram.com/murtuza_it/)
 
